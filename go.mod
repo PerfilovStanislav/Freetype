@@ -1,4 +1,4 @@
-module github.com/golang/freetype
+module github.com/PerfilovStanislav/Freetype
 
 go 1.18
 
